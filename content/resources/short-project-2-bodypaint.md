@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Short Project
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Short Project 2:  Bodypaint'
 uid: 59098eaf-9e9e-e6d7-4d46-16cb2164aa4c
 video_files:
   archive_url: https://archive.org/download/MITRES.3-003IAP17/MITRES_3-003IAP17_Short_Project_02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/a246d3bf8a4658218a817a849cb780e8_9NChLq-orAk.vtt
+  video_captions_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/a246d3bf8a4658218a817a849cb780e8_9NChLq-orAk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/9NChLq-orAk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/d56daf878d0933f969a4302ac6c77b92_9NChLq-orAk.pdf
+  video_transcript_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/d56daf878d0933f969a4302ac6c77b92_9NChLq-orAk.pdf
 video_metadata:
   youtube_id: 9NChLq-orAk
 ---

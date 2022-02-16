@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/ce1eef34ca8e77598854c2243a80cb1e_Collaboration-RedBallDuringClass.jpg
+file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/ce1eef34ca8e77598854c2243a80cb1e_Collaboration-RedBallDuringClass.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Collaboration
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: Collaboration-RedBallDuringClass.jpg
 uid: ce1eef34-ca8e-7759-8854-c2243a80cb1e

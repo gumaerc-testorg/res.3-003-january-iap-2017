@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information regarding the Workshop Flyer.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/9702fa1d3cc5077b56945c747e350d70_MITRES_3_003IAP17_Flyer.pdf
+file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/9702fa1d3cc5077b56945c747e350d70_MITRES_3_003IAP17_Flyer.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Host Your Own Workshop
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft
   Kinect Workshop flyer

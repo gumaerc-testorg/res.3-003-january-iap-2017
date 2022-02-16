@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Class Activities
 uid: f669058c-f8f9-20dd-d8b1-1b7617a3a767
 ---

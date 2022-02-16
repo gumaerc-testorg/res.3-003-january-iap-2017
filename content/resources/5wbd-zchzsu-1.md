@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/b8fa59ab69128fbdf3bd62d276257bb2_5wbD-zChZsU.pdf
+file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/b8fa59ab69128fbdf3bd62d276257bb2_5wbD-zChZsU.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: b8fa59ab-6912-8fbd-f3bd-62d276257bb2

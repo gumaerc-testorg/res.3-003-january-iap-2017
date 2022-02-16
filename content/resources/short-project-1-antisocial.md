@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Short Project
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Short Project 1: Antisocial'
 uid: 06db63fd-d698-0da3-0259-c5237e9c9133
 video_files:
   archive_url: https://archive.org/download/MITRES.3-003IAP17/MITRES_3-003IAP17_Short_Project_01_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/a71c5e632dee5dc1869184ef315f8aa8_5wbD-zChZsU.vtt
+  video_captions_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/a71c5e632dee5dc1869184ef315f8aa8_5wbD-zChZsU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/5wbD-zChZsU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/b8fa59ab69128fbdf3bd62d276257bb2_5wbD-zChZsU.pdf
+  video_transcript_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/b8fa59ab69128fbdf3bd62d276257bb2_5wbD-zChZsU.pdf
 video_metadata:
   youtube_id: 5wbD-zChZsU
 ---

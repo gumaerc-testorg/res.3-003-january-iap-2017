@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Activities
+parent_type: SupplementalResourceSection
 parent_uid: f669058c-f8f9-20dd-d8b1-1b7617a3a767
 title: Guided Tutorial
 uid: 0b759eb6-d4b4-baed-afc8-bf58c1e780ee

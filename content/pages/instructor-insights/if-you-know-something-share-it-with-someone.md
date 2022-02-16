@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 64974e9a-65f1-cbfe-8b8c-ed318348252f
 title: If You Know Something, Share it with Someone
 uid: ae960acd-e1fd-6647-981a-a0d015460504

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Student Projects
+parent_type: SupplementalResourceSection
 parent_uid: 0f036db7-c54a-1cc7-a1d0-7a87f0d7f880
 title: Short Project
 uid: a27c7096-22f5-33d3-7924-cba8ea5aa93f

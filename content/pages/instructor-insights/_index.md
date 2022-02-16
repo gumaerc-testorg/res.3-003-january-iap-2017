@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 64974e9a-65f1-cbfe-8b8c-ed318348252f
 ---
@@ -57,20 +59,6 @@ Assessment
 ### Grade Breakdown
 
 There were no grades associated with this course.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with students sitting at moveable tablet desks arranged in small groups. Students are working on laptops.]({{< resource_file 5f8a8860-6806-8bf3-9a95-0dda72660fb1 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Workshop
-    
-    Workshop sessions were held in a classroom with small individual tables grouped together. A space with large moveable tables would be an ideal setup. Students had access to laptops or computers with Unity and GitHub installed.
-    
 
 Curriculum Information
 ----------------------

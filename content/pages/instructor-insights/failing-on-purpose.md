@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 64974e9a-65f1-cbfe-8b8c-ed318348252f
 title: Failing, On Purpose
 uid: d5e47884-d3c2-5082-2908-531e757c1745

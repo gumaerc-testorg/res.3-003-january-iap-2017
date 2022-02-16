@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Host Your Own Workshop
 uid: 1a7402cd-bd5c-9be8-5ec1-286a3826da7b
 ---

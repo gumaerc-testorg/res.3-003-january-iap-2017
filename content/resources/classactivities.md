@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/6a3b23dfe95558a2556eac2165759fbe_ClassActivities.jpg
+file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/6a3b23dfe95558a2556eac2165759fbe_ClassActivities.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Instructor Kyle Keane facilitating a brainstorming session for student
@@ -9,6 +9,10 @@ image_metadata:
   credit: Courtesy of MIT OpenCourseWare
   image-alt: Instructor of the MIT IAP Unity course, Kyle Keane, standing in front
     of the chalk board during a project brainstorming session.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Class Activities
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: Class Activities
 uid: 6a3b23df-e955-58a2-556e-ac2165759fbe

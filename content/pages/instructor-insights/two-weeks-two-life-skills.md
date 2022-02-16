@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 64974e9a-65f1-cbfe-8b8c-ed318348252f
 title: Two Weeks, Two Life Skills
 uid: e58ba409-f15f-06a3-b8f1-cd9fc04a6f96

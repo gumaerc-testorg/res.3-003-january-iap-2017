@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/c7616225d41c45be244c713b4f6ef782_GettingStarted-IntroducingIntroductions.jpg
+file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/c7616225d41c45be244c713b4f6ef782_GettingStarted-IntroducingIntroductions.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Getting Started
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: GettingStarted-IntroducingIntroductions.jpg
 uid: c7616225-d41c-45be-244c-713b4f6ef782

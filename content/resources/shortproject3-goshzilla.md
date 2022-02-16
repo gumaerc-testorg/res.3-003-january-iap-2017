@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/3971c350f9250e46009cc6bcba933ffc_ShortProject3-Goshzilla.jpg
+file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/3971c350f9250e46009cc6bcba933ffc_ShortProject3-Goshzilla.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Short Project
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: ShortProject3-Goshzilla.jpg
 uid: 3971c350-f925-0e46-009c-c6bcba933ffc

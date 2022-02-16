@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Activities
+parent_type: SupplementalResourceSection
 parent_uid: f669058c-f8f9-20dd-d8b1-1b7617a3a767
 title: Getting Started
 uid: 5b151cad-29ac-952b-f31d-9cdf22b95bef

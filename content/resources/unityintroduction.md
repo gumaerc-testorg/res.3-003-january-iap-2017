@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/99429af43368df6f9be46979a19cf4b6_UnityIntroduction.jpg
+file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/99429af43368df6f9be46979a19cf4b6_UnityIntroduction.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Members introduce themselves and play an improv game.
   credit: Courtesy of MIT OpenCourseWare.
   image-alt: Playing an improv game
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Getting Started
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: UnityIntroduction.jpg
 uid: 99429af4-3368-df6f-9be4-6979a19cf4b6

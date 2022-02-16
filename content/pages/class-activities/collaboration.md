@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 parent_title: Class Activities
+parent_type: SupplementalResourceSection
 parent_uid: f669058c-f8f9-20dd-d8b1-1b7617a3a767
 title: Collaboration
 uid: 51c2a235-b1c1-48e0-5200-4ab2a384f97b

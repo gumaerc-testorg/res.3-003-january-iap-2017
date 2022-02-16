@@ -1,13 +1,18 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/963fe33a0705ccceed621cb5345f8344_UnityLongProject.jpg
+file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/963fe33a0705ccceed621cb5345f8344_UnityLongProject.jpg
 file_type: image/jpeg
 image_metadata:
   caption: A group thinking of game ideas. This is the early planning stage of "Jedi
     Ball," a mind controlled bowling game.
   credit: Courtesy of MIT OpenCourseWare
   image-alt: Group brainstorming
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Long Project
+parent_type: SupplementalResourceSection
 resourcetype: Image
 title: UnityLongProject.jpg
 uid: 963fe33a-0705-ccce-ed62-1cb5345f8344

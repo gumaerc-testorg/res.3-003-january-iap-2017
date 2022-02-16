@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Long Project
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Long Project 5: Multiple Mini-games'
 uid: 27a3340f-caeb-b24d-8f37-d872e188e64c
 video_files:
   archive_url: https://archive.org/download/MITRES.3-003IAP17/MITRES_3-003IAP17_Long_Project_05_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/8b9dddc6c8705d36a263e4fea9852ed6_apbCAHH7Ml4.vtt
+  video_captions_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/8b9dddc6c8705d36a263e4fea9852ed6_apbCAHH7Ml4.vtt
   video_thumbnail_file: https://img.youtube.com/vi/apbCAHH7Ml4/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/12e8d4fe49deb16a7cf507043dbfbc90_apbCAHH7Ml4.pdf
+  video_transcript_file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/12e8d4fe49deb16a7cf507043dbfbc90_apbCAHH7Ml4.pdf
 video_metadata:
   youtube_id: apbCAHH7Ml4
 ---
