@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Guided Tutorial
 parent_type: SupplementalResourceSection
+parent_uid: 0b759eb6-d4b4-baed-afc8-bf58c1e780ee
 resourcetype: Image
 title: GuidedTutorial-PurposeAndOverview.jpg
 uid: 8115fb78-f963-e70f-51e3-541bca643c5c

@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Expanding on Tutorials
 parent_type: SupplementalResourceSection
+parent_uid: 48db19f3-2847-8c3b-e3ad-7ce69c5aa9e0
 resourcetype: Image
 title: UnityExpandingOnTutorials.jpg
 uid: 53bdff1b-3e5d-ad56-2de7-633cf371aa89

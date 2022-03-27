@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 64974e9a-65f1-cbfe-8b8c-ed318348252f
 resourcetype: Image
 title: RES3-003class-compressor.jpg
 uid: 5f8a8860-6806-8bf3-9a95-0dda72660fb1

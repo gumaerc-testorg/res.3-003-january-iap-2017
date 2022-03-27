@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Student Projects
 parent_type: SupplementalResourceSection
+parent_uid: 0f036db7-c54a-1cc7-a1d0-7a87f0d7f880
 resourcetype: Image
 title: UnityStudentProjects.jpg
 uid: 35ff3872-2761-cbb3-5e0f-fd5ee1812a4b

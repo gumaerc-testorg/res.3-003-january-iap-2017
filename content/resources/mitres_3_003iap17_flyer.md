@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Host Your Own Workshop
 parent_type: SupplementalResourceSection
+parent_uid: 1a7402cd-bd5c-9be8-5ec1-286a3826da7b
 resourcetype: Document
 title: Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft
   Kinect Workshop flyer

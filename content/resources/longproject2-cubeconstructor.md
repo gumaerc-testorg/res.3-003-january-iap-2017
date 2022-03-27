@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Long Project
 parent_type: SupplementalResourceSection
+parent_uid: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
 resourcetype: Image
 title: LongProject2-CubeConstructor.jpg
 uid: d10af93e-1a62-fffd-f4e7-38d928202623

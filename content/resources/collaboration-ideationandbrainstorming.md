@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Collaboration
 parent_type: SupplementalResourceSection
+parent_uid: 51c2a235-b1c1-48e0-5200-4ab2a384f97b
 resourcetype: Image
 title: Collaboration-IdeationAndBrainstorming.jpg
 uid: 5fc40a49-7a01-067d-b080-f8034fa9e452

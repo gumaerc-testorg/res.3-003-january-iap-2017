@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Getting Started
 parent_type: SupplementalResourceSection
+parent_uid: 5b151cad-29ac-952b-f31d-9cdf22b95bef
 resourcetype: Image
 title: GettingStarted-IntroducingIntroductions.jpg
 uid: c7616225-d41c-45be-244c-713b4f6ef782

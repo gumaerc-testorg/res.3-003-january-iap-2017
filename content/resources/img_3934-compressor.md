@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: If You Know Something, Share it with Someone
 parent_type: CourseSection
+parent_uid: ae960acd-e1fd-6647-981a-a0d015460504
 resourcetype: Image
 title: IMG_3934-compressor.jpg
 uid: 8cd8d61e-9233-63d2-d9a3-31f972f4687e

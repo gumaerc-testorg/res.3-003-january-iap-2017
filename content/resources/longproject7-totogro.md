@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Long Project
 parent_type: SupplementalResourceSection
+parent_uid: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
 resourcetype: Image
 title: LongProject7-TotoGro.jpg
 uid: 1fc16ec0-7b5f-1221-e31a-460eb376887d

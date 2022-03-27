@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Short Project
 parent_type: SupplementalResourceSection
+parent_uid: a27c7096-22f5-33d3-7924-cba8ea5aa93f
 resourcetype: Image
 title: ShortProject2-Bodypaint.jpg
 uid: 09536310-66b9-611e-62f0-95301acc8c96

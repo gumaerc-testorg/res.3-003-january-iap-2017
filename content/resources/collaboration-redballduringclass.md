@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Collaboration
 parent_type: SupplementalResourceSection
+parent_uid: 51c2a235-b1c1-48e0-5200-4ab2a384f97b
 resourcetype: Image
 title: Collaboration-RedBallDuringClass.jpg
 uid: ce1eef34-ca8e-7759-8854-c2243a80cb1e

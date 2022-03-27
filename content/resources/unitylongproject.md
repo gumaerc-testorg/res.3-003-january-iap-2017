@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Long Project
 parent_type: SupplementalResourceSection
+parent_uid: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
 resourcetype: Image
 title: UnityLongProject.jpg
 uid: 963fe33a-0705-ccce-ed62-1cb5345f8344

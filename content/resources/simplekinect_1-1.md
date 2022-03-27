@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: SupplementalResourceSection
+parent_uid: b6ccdb6a-fe56-6be0-2340-86382f780d1d
 resourcetype: Other
 title: SimpleKinect_1.1.unitypackage
 uid: 175115d1-de82-4446-dafd-e4d43f08416a

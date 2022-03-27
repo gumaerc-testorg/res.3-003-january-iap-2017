@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Guided Tutorial
 parent_type: SupplementalResourceSection
+parent_uid: 0b759eb6-d4b4-baed-afc8-bf58c1e780ee
 resourcetype: Image
 title: GuidedTutorial-IntroductionToUnity.jpg
 uid: 94d20b64-cfe5-34fa-a58f-8bd301456f49

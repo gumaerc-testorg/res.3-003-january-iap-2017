@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Short Project
 parent_type: SupplementalResourceSection
+parent_uid: a27c7096-22f5-33d3-7924-cba8ea5aa93f
 resourcetype: Image
 title: ShortProject5-CubeConstructor.jpg
 uid: 110102f4-c4d0-b3a6-0efd-0d9ba1218f1d

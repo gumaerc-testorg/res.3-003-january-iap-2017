@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Collaboration
 parent_type: SupplementalResourceSection
+parent_uid: 51c2a235-b1c1-48e0-5200-4ab2a384f97b
 resourcetype: Image
 title: UnityCollaboration.jpg
 uid: 833a9605-be9d-31c5-2da5-5f5b0356761a

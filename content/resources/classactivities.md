@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Class Activities
 parent_type: SupplementalResourceSection
+parent_uid: f669058c-f8f9-20dd-d8b1-1b7617a3a767
 resourcetype: Image
 title: Class Activities
 uid: 6a3b23df-e955-58a2-556e-ac2165759fbe
