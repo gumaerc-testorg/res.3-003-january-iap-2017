@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: "In this section, Kyle Keane shares how he encourages participants to\
+  \ view each other as resources for learning. He also discusses how dynamic team-building\
+  \ sessions give participants an opportunity to tap into their peers\u2019 skills."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +15,7 @@ uid: ae960acd-e1fd-6647-981a-a0d015460504
 
 _In this section, Kyle Keane shares how he encourages participants to view each other as resources for learning. He also discusses how dynamic team-building sessions give participants an opportunity to tap into their peers’ skills_.
 
-![Several students with laptops sitting in close proximity. One of them is gesticulating.]({{< resource_file 8cd8d61e-9233-63d2-d9a3-31f972f4687e >}})
+{{< resource 8cd8d61e-9233-63d2-d9a3-31f972f4687e >}}
 
 Participants collaborating in the Unity workshop. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 

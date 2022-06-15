@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Short Project 7: Downhill Skiing'
 uid: c5a2eb8a-ab94-4f17-b476-2709d5d0961a
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Student team presentation about their videogame “Downhill Skiing”, a game where the player controlled a downhill skier by helping them avoid trees.
+
+
+

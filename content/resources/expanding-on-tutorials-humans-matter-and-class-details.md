@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Expanding on Tutorials
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Expanding on Tutorials: Humans Matter and Class Details'
 uid: 05f1e9e2-446a-b57d-4129-69fd14fd4218
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Kyle Keane provides a high-level introduction to the structure of the class, along with some expectation setting about engagement.
+
+
+

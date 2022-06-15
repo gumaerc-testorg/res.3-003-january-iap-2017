@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides the course policy and the class schedule for the MIT
+  2017 IAP course, Learn to Build Your Own Videogame with the Unity Game Engine and
+  Microsoft Kinect, taught by Kyle Keane, Andrew Ringler, Abhinav Gandhi, and Mark
+  Vrablic.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus
@@ -31,7 +35,7 @@ Logistics
 
 The class size is 30 students from varying backgrounds, and the class takes place in a classroom with movable desks or tables so students can form teams.
 
-If you want to use the Microsoft Kinect Controller for your video game, you have to intall the [Unity Pacakge]({{< baseurl >}}/resources/simplekinect_1-1) first.
+If you want to use the Microsoft Kinect Controller for your video game, you have to intall the {{% resource_link 175115d1-de82-4446-dafd-e4d43f08416a "Unity Pacakge" %}} first.
 
 Schedule
 --------

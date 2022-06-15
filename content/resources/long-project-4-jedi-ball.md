@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
@@ -12,7 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Long Project 4: Jedi Ball'
 uid: edf66779-b50d-1291-2aa3-1745578cd3de
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Student team presentation about their final game, JediBall. In it, the player rolls a ball down an alley and control it using their body motion (measured using the Microsoft Kinect).
 
 **Speakers:** MIT students
+
+
+

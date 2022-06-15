@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Expanding on Tutorials
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: Expanding on Tutorials
 uid: 1e6ef3e7-48a5-ae1d-7c84-790b87acfcd0
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Kyle Keane talks about the logistics and purpose of expanding on tutorials, and how this is related to creating, inventing, and learning.
+
+
+

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Guided Tutorial
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Guided Tutorial: Introduction to Unity'
 uid: 7fd445e1-cb56-0b0c-93fa-8d6a5473a08d
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Mark Vrablic provides an overview of the Unity game engine and how to work with the software interface. This is provided to help students get started on an even footing when jumping into the guided tutorial.
+
+
+

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Short Project 5: Cube Constructor'
 uid: 5fb4ce8c-9744-9bc0-d417-d19e428ea044
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Student team presentation about their videogame “Cube Constructor”, a game similar to Minecraft where you place cubes in a freestyle virtual world. However, in this game you use your hand to move and place the cubes. The game also allows the player to switch to paint mode to change the color of previously placed cubes.
+
+
+

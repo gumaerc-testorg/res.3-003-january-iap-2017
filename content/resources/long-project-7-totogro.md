@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
@@ -12,7 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Long Project 7: TotoGro'
 uid: fb4e7b94-1061-aa53-312c-6d83b841d8cd
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** A student team presents their final game, TotoGro. Based on the popular movie “My Neighbor Totoro”, the player performs various gestures from the movie to grow a tree.
 
 **Speakers:** MIT students
+
+
+

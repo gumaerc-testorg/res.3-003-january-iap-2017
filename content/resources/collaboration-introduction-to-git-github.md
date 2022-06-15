@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Collaboration
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Collaboration: Introduction to Git/GitHub'
 uid: 31edfe81-b396-4bb5-5d49-760264869ec9
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Andrew Ringler provides an overview of the Github software collaboration toolset. This video introduces students to concepts of collaboration with Git.
+
+
+

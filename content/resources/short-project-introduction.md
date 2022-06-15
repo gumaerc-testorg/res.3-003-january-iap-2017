@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Short Project: Introduction'
 uid: 5fcaaac0-b30d-37d8-e14c-974a8a24be8f
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 In this video, instructor Kyle Keane provides some context about the student projects and presentations, including how long teams had to build their games and what information they should cover in the presentations.
+
+
+

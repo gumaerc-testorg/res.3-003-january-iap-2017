@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides student perspective to the MIT 2017 IAP course, Learn
+  to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect, taught
+  by Kyle Keane and Andrew Ringler.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -23,7 +26,7 @@ This workshop puts the responsibility for learning on the learner. The instructo
 
 When working in teams, surround yourself with people who know things you don’t know. And make sure that the people you’re teaming with can use your very specific set of skills. For example, I teamed with people who were good at coding—a skill I haven’t developed as deeply as others in the workshop. As a complement to their coding skills, I offered project development knowledge. I identified risks and created a simple development pipeline so that we could get started with something tangible right way. I think my team members appreciated my ability to organize our work.
 
-![Three students in a classroom, huddled around laptops.]({{< resource_file 18ff47d8-256b-b535-84c5-dead470ab8dd >}})
+{{< resource 18ff47d8-256b-b535-84c5-dead470ab8dd >}}
 
 Workshop participants collaborating to complete a tutorial. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 

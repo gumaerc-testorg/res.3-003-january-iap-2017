@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/35ff38722761cbb35e0ffd5ee1812a4b_UnityStudentProjects.jpg
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/35ff38722761cbb35e0ffd5ee1812a4b_UnityStudentProjects.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Students worked for one week to design and build videogames in the Unity

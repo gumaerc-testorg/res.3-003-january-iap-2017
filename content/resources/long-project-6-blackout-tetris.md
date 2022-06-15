@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
@@ -12,7 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Long Project 6: Blackout Tetris'
 uid: df0907bb-5f56-deb2-89ca-1f6dfe8ba19f
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** A student presents presents his final project, Blackout Tetris. In it, the player uses the game mechanics of Tetris to get rid of every piece on the screen. The width of the board can be modified leading to multiple different solutions.
 
 **Speakers:** MIT students
+
+
+

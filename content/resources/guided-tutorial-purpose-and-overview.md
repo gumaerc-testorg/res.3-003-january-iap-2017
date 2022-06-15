@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Guided Tutorial
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Guided Tutorial: Purpose and Overview'
 uid: d5fec833-baad-e25e-f988-fca085b259d3
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Kyle Keane sets expectations for the group dynamics of the guided tutorial, letting students know they should ask each other lots of questions and work as a team to find answers.
+
+
+

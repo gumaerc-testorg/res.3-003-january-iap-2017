@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Collaboration
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Collaboration: Ideation and Brainstorming'
 uid: c376ad52-bb50-8a4b-1890-c0c8b59f7c06
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Kyle Keane leads a collaborative ideation and brainstorming session for the entire to class to start communicating and understanding each other’s ideas for the first team project.
+
+
+

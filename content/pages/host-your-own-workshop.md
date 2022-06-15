@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page provides the detailed information of the class activities in
+  the MIT 2017 IAP course, Learn to Build Your Own Videogame with the Unity Game Engine
+  and Microsoft Kinect, taught by Kyle Keane, Andrew Ringler, Abhinav Gandhi, and
+  Mark Vrablic.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Host Your Own Workshop
@@ -31,7 +35,7 @@ Hardware
 Posters
 -------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Workshop flyer (PDF)]({{< baseurl >}}/resources/mitres_3_003iap17_flyer)
+{{% resource_link 9702fa1d-3cc5-077b-5694-5c747e350d70 "Workshop flyer (PDF)" %}}
 
 Emails
 ------

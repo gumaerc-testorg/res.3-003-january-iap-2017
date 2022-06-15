@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Expanding on Tutorials
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Expanding on Tutorials: Kinect Demo'
 uid: 10a97d8a-ce6b-2c59-f6c9-6b89fc3dc5e8
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Mark Vrablic demonstrates how the Unity game engine connects to the Microsoft Kinect. The guided tutorial that students have completed called “roll-a-ball” is a game normally driven by arrow keys on a standard keyboard. In this video, Mark shows how to modify the game to have the controls be dictated by the position of the user’s hands and other body parts in space.
+
+
+

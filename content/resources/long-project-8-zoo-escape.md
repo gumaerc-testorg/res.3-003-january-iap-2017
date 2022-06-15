@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
@@ -12,7 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Long Project 8: Zoo Escape'
 uid: 0691b555-5c7b-b51b-8175-0f9e790a5bdf
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** A student team presents their final game, Zoo Escape. The player can choose to be one of four animals, and use its special abilities to escape the enclosure, find a key, and exit the zoo. Each animal has its own unique and representative control scheme using the Kinect.
 
 **Speakers:** MIT students
+
+
+

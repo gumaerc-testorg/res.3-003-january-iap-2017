@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "In this section, Kyle Keane discusses designed-to-fail projects and\
+  \ how they enable participants to learn, first hand, the importance of working with\
+  \ people that bring different skills to a project. He also shares how failing, on\
+  \ purpose, frees learners to take academic risks and to recover (and benefit) from\
+  \ endeavors that don\u2019t succeed."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +17,7 @@ uid: d5e47884-d3c2-5082-2908-531e757c1745
 
 _In this section, Kyle Keane discusses designed-to-fail projects and how they enable participants to learn, first hand, the importance of working with people that bring different skills to a project. He also shares how failing, on purpose, frees learners to take academic risks and to recover (and benefit) from endeavors that don’t succeed_.
 
-![Two women in a classroom setting looking at one laptop screen.]({{< resource_file 6ff4a3a7-b152-e293-21f6-803a2ff6b316 >}})
+{{< resource 6ff4a3a7-b152-e293-21f6-803a2ff6b316 >}}
 
 Workshop participants complete an online tutorial together. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 

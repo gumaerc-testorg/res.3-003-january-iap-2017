@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/912f2fa35dc424670776e8f9ba085c06_LongProject8-ZooEscape.jpg
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/912f2fa35dc424670776e8f9ba085c06_LongProject8-ZooEscape.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

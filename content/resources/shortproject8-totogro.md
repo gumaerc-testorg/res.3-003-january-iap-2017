@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/4d4b5ddc32e02e53c4f12e56285a1a57_ShortProject8-TotoGro.jpg
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/4d4b5ddc32e02e53c4f12e56285a1a57_ShortProject8-TotoGro.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

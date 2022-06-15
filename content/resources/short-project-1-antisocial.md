@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Short Project 1: Antisocial'
 uid: 06db63fd-d698-0da3-0259-c5237e9c9133
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Student team presentation about their videogame “Antisocial“, a game about street harassment and non-verbal communication designed to educate players about the complexities and variety of undesired socialization. The vision of the game is a player walks down a virtual street while being approached by various unsavory characters; the player must respond with the appropriate gesture to deter the approaching characters and to keep them out of the player “safety zone”. For instance, a player might play as an investor walking to lunch while having to push away people seeking to make unsolicited business proposals.
+
+
+

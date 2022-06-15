@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/bc5e6fc9ad605c0f8461907928f00c18_gDpkinitSRM.vtt
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/bc5e6fc9ad605c0f8461907928f00c18_gDpkinitSRM.vtt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

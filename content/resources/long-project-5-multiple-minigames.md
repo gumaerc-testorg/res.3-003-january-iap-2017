@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
@@ -12,7 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Long Project 5: Multiple Mini-games'
 uid: 27a3340f-caeb-b24d-8f37-d872e188e64c
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** A student team presents their final project, a collection of minigames. In the first one, the user controls a flying cooked chicken.
 
 **Speakers:** MIT students
+
+
+

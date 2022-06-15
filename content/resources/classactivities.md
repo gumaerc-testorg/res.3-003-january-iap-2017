@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/6a3b23dfe95558a2556eac2165759fbe_ClassActivities.jpg
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/6a3b23dfe95558a2556eac2165759fbe_ClassActivities.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Instructor Kyle Keane facilitating a brainstorming session for student

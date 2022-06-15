@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
@@ -12,7 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Long Project 3: Desert Racing'
 uid: 08e18cf2-8726-6899-ad8b-02c8c7c21df5
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** A student team presents their final game, where the user directs a cube traveling forward at a constant speed around obstacles toward a goal at the end.
 
 **Speakers:** MIT students
+
+
+

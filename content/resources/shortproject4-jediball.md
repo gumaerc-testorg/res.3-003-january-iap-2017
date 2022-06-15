@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/b2a8d1e86d66fca7bb8a10e68788bc68_ShortProject4-JediBall.jpg
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/b2a8d1e86d66fca7bb8a10e68788bc68_ShortProject4-JediBall.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

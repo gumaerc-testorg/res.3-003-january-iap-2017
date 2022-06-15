@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Short Project 6: Car Racing'
 uid: e830ac59-cbcd-e803-4816-59a041289999
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Student team presentation about their videogame “Car Racing”, a game where the player controlled a car as it drove down a complex sloping track – there were complications with the gravity in the virtual environment that led to some fun laughter.
+
+
+

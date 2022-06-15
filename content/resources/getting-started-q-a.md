@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Getting Started
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Getting Started: Q&A'
 uid: c61eade3-46d8-e8de-bdc2-80f3e8f6b88d
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Mark Vrablic and Kyle Keane answer questions from students about the class, activities, and technology being used.
+
+
+

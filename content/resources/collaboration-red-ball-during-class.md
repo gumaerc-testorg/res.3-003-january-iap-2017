@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Collaboration
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Collaboration: Red Ball During Class'
 uid: 389e07d1-2fbf-5a76-9feb-f92534bd3131
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Kyle Keane leads the class in an improv comedy activity called “red ball” in order to help students become more comfortable with each other and get to express themselves a bit non-verbally.
+
+
+

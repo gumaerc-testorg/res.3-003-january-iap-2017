@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
@@ -12,7 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Long Project: Introduction'
 uid: e820e55f-0ea0-49b4-62ab-b9beae66384c
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this video, instructor Kyle Keane provides some context about the student projects and presentations, including how long teams had to build their games and what information they should cover in the presentations.
 
 **Speaker:** Kyle Keane
+
+
+

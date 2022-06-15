@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Short Project
@@ -11,7 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Short Project 3: Goshizilla'
 uid: c3f167c1-0856-aef0-6b2e-cd44397c5130
 video_files:
@@ -24,3 +25,6 @@ video_metadata:
 ---
 
 Student team presentation about their videogame “Goshzilla”, a game that allows a player to play as an unintentionally destructive monster that is trying to carefully move through a city, but often breaking buildings and smashing cars by accident.
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
@@ -12,7 +13,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '0'
 title: 'Long Project 2: Mini World'
 uid: e36722b0-227d-acf0-42b5-8fd14ea73c49
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** A student team presents their final game, Cube Constructor. For the final project, the user can build with more than cubes. Scenery items such as trees and bridges can be placed, painted, moved, and rotated around a house. The user can also enter the house and decorate the inside.
 
 **Speakers:** MIT students
+
+
+
