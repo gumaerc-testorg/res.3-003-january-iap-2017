@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 Kyle Keane provides a high-level introduction to the structure of the class, along with some expectation setting about engagement.
-
-
 

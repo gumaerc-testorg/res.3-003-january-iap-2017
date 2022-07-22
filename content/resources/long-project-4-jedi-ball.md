@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Student team presentation about their final game, JediBall. In it, the player rolls a ball down an alley and control it using their body motion (measured using the Microsoft Kinect).
 
 **Speakers:** MIT students
-
-
 

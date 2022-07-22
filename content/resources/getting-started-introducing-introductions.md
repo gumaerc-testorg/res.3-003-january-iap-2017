@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 Kyle Keane describes the first ice breaker of the class and how we will manage the task of having everyone introduce themselves.
-
-
 

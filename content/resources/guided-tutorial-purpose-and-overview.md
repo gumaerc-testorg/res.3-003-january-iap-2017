@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 Kyle Keane sets expectations for the group dynamics of the guided tutorial, letting students know they should ask each other lots of questions and work as a team to find answers.
-
-
 

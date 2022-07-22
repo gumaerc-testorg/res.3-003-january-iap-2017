@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 Mark Vrablic provides an overview of the Unity game engine and how to work with the software interface. This is provided to help students get started on an even footing when jumping into the guided tutorial.
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 Student team presentation about their videogame “Goshzilla”, a game that allows a player to play as an unintentionally destructive monster that is trying to carefully move through a city, but often breaking buildings and smashing cars by accident.
-
-
 

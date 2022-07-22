@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** A student team presents their final game, Cube Constructor. For the final project, the user can build with more than cubes. Scenery items such as trees and bridges can be placed, painted, moved, and rotated around a house. The user can also enter the house and decorate the inside.
 
 **Speakers:** MIT students
-
-
 

@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of MIT OpenCourseWare
   image-alt: Godzilla model following a student
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Short Project
 parent_type: SupplementalResourceSection

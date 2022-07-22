@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 Student team presentation about their videogame “Cube Constructor”, a game similar to Minecraft where you place cubes in a freestyle virtual world. However, in this game you use your hand to move and place the cubes. The game also allows the player to switch to paint mode to change the color of previously placed cubes.
-
-
 

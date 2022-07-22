@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** A student team presents their final project, a collection of minigames. In the first one, the user controls a flying cooked chicken.
 
 **Speakers:** MIT students
-
-
 

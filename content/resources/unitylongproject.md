@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Group brainstorming
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Long Project
 parent_type: SupplementalResourceSection

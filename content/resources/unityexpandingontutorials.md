@@ -9,6 +9,7 @@ image_metadata:
   credit: Courtesy of MIT OpenCourseWare.
   image-alt: Students working in Unity
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Expanding on Tutorials
 parent_type: SupplementalResourceSection

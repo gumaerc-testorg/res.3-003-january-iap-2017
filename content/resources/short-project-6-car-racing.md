@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 Student team presentation about their videogame “Car Racing”, a game where the player controlled a car as it drove down a complex sloping track – there were complications with the gravity in the virtual environment that led to some fun laughter.
-
-
 

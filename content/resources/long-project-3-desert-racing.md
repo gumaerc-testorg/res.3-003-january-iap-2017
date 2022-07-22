@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** A student team presents their final game, where the user directs a cube traveling forward at a constant speed around obstacles toward a goal at the end.
 
 **Speakers:** MIT students
-
-
 

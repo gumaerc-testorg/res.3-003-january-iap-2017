@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** A student team presents their final game, Zoo Escape. The player can choose to be one of four animals, and use its special abilities to escape the enclosure, find a key, and exit the zoo. Each animal has its own unique and representative control scheme using the Kinect.
 
 **Speakers:** MIT students
-
-
 

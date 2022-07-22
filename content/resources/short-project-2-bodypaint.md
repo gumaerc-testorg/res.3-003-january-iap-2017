@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -25,6 +26,4 @@ video_metadata:
 ---
 
 Student team presentation about their videogame “Bodypaint”, a game that allows a player to use their body’s motions to create images on the screen. This is just like Microsoft Paint, but you use your hand, foot, elbow, or head to place lines and shapes onto a canvas.
-
-
 

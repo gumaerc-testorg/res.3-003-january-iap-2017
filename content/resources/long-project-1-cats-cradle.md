@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
 optional_text: ''
 parent_title: Long Project
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** A student team presents their final game, Cat’s Cradle. In it, the user controls two hedgehogs carrying a cat through a maze without falling over.
 
 **Speakers:** MIT students
-
-
 

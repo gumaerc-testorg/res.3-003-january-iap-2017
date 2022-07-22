@@ -10,6 +10,7 @@ image_metadata:
   credit: Courtesy of MIT OpenCourseWare.
   image-alt: Student drawing videogame schematic diagram on chalkboard
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Student Projects
 parent_type: SupplementalResourceSection

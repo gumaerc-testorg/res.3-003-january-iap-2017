@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Instructor of the MIT IAP Unity course, Kyle Keane, standing in front
     of the chalk board during a project brainstorming session.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Class Activities
 parent_type: SupplementalResourceSection
