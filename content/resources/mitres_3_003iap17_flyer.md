@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding the Workshop Flyer.
 file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/9702fa1d3cc5077b56945c747e350d70_MITRES_3_003IAP17_Flyer.pdf
+file_size: 638665
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

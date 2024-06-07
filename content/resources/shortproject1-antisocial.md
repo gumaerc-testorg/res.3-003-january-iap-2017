@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/e3c9debd4bbe4df5e5447e8951494f93_ShortProject1-Antisocial.jpg
+file_size: 2500
 file_type: image/jpeg
 image_metadata:
   caption: ''
