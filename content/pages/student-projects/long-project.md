@@ -13,7 +13,7 @@ parent_uid: 0f036db7-c54a-1cc7-a1d0-7a87f0d7f880
 title: Long Project
 uid: 767c6fdd-74cf-47dc-df45-71a01a2af0c3
 ---
-{{< resource 963fe33a-0705-ccce-ed62-1cb5345f8344 >}}
+{{< resource uuid="963fe33a-0705-ccce-ed62-1cb5345f8344" >}}
 
 A group thinking of game ideas. This is the early planning stage of "Jedi Ball," a mind controlled bowling game. (Image by H. Sharon Lin, MIT OpenCourseWare.)
 
@@ -24,51 +24,51 @@ Students form groups of three to four and work for twenty hours on a long projec
 The following project demonstrations are courtesy of the participants, including MIT students, and used with permission.
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{< resource f57499df-f4e1-025f-e6db-ab9aa53ca386 >}}
+{{< resource uuid="f57499df-f4e1-025f-e6db-ab9aa53ca386" >}}
 
  
 
 {{< tdclose >}}{{< tdopen >}}
 
-#### {{% resource_link e820e55f-0ea0-49b4-62ab-b9beae66384c "Long Project: Introduction" %}}
+#### {{% resource_link "e820e55f-0ea0-49b4-62ab-b9beae66384c" "Long Project: Introduction" %}}
 
 In this video, instructor Kyle Keane provides some context about the student projects and presentations, including how long teams had to build their games and what information they should cover in the presentations.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< resource c283e2f2-f2f5-35e5-1f66-235a21e42ced >}}
+{{< resource uuid="c283e2f2-f2f5-35e5-1f66-235a21e42ced" >}}
 
  
 
 {{< tdclose >}}{{< tdopen >}}
 
-#### Long Project 1: Cats Cradle﻿
+#### {{% resource_link "e600bb7b-91b2-4aab-0557-9ace0ad54653" "Long Project 1: Cats Cradle" %}}
 
 A student team presents their final game, Cat’s Cradle. In it, the user controls two hedgehogs carrying a cat through a maze without falling over.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< resource d10af93e-1a62-fffd-f4e7-38d928202623 >}}
+{{< resource uuid="d10af93e-1a62-fffd-f4e7-38d928202623" >}}
 
  
 
 {{< tdclose >}}{{< tdopen >}}
 
-#### ﻿{{% resource_link e36722b0-227d-acf0-42b5-8fd14ea73c49 "Long Project 2: Mini World" %}}
+#### ﻿{{% resource_link "e36722b0-227d-acf0-42b5-8fd14ea73c49" "Long Project 2: Mini World" %}}
 
 A student team presents their final game, Cube Constructor. For the final project, the user can build with more than cubes. The game has additional features, including scenery items, and the user can also enter the house and decorate the inside.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 08eece0c-01e9-6692-952d-cc97455d37cd >}}
+{{< resource uuid="08eece0c-01e9-6692-952d-cc97455d37cd" >}}
 
  
 
 {{< tdclose >}}{{< tdopen >}}
 
-#### {{% resource_link 08e18cf2-8726-6899-ad8b-02c8c7c21df5 "Long Project 3: Desert Racing" %}}
+#### {{% resource_link "08e18cf2-8726-6899-ad8b-02c8c7c21df5" "Long Project 3: Desert Racing" %}}
 
 A student team presents their final game, where the user directs a cube traveling forward at a constant speed around obstacles toward a goal at the end.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 79b4ba90-7b4f-d6e5-657e-5decb7b3a928 >}}
+{{< resource uuid="79b4ba90-7b4f-d6e5-657e-5decb7b3a928" >}}
 
  
 
@@ -79,29 +79,29 @@ A student team presents their final game, where the user directs a cube travelin
 Student team presentation about their final game, JediBall. In it, the player rolls a ball down an alley and control it using their body motion (measured using the Microsoft Kinect). This video is unavailable due to copyright restrictions.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 5a14a817-1e3a-d050-b405-34b5fe122186 >}}
+{{< resource uuid="5a14a817-1e3a-d050-b405-34b5fe122186" >}}
 
  
 
 {{< tdclose >}}{{< tdopen >}}
 
-#### {{% resource_link 27a3340f-caeb-b24d-8f37-d872e188e64c "Long Project 5: Multiple Mini-games" %}}
+#### {{% resource_link "27a3340f-caeb-b24d-8f37-d872e188e64c" "Long Project 5: Multiple Mini-games" %}}
 
 A student team presents their final project, a collection of minigames. In the first one, the user controls a flying cooked chicken.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 63be88f7-5159-711b-56fe-ad4c939e7d12 >}}
+{{< resource uuid="63be88f7-5159-711b-56fe-ad4c939e7d12" >}}
 
  
 
 {{< tdclose >}}{{< tdopen >}}
 
-#### ﻿{{% resource_link df0907bb-5f56-deb2-89ca-1f6dfe8ba19f "Long Project 6: Blackout Tetris" %}}
+#### ﻿{{% resource_link "df0907bb-5f56-deb2-89ca-1f6dfe8ba19f" "Long Project 6: Blackout Tetris" %}}
 
 A student presents presents his final project, Blackout Tetris. In it, the player uses the game mechanics of Tetris to get rid of every piece on the screen. The width of the board can be modified leading to multiple different solutions.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 1fc16ec0-7b5f-1221-e31a-460eb376887d >}}
+{{< resource uuid="1fc16ec0-7b5f-1221-e31a-460eb376887d" >}}
 
  
 
@@ -112,13 +112,13 @@ A student presents presents his final project, Blackout Tetris. In it, the playe
 A student team presents their final game, TotoGro. Based on the popular movie “My Neighbor Totoro”, the player performs various gestures from the movie to grow a tree. This video is unavailable due to copyright restrictions.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 912f2fa3-5dc4-2467-0776-e8f9ba085c06 >}}
+{{< resource uuid="912f2fa3-5dc4-2467-0776-e8f9ba085c06" >}}
 
  
 
 {{< tdclose >}}{{< tdopen >}}
 
-#### ﻿{{% resource_link 0691b555-5c7b-b51b-8175-0f9e790a5bdf "Long Project 8: Zoo Escape" %}}
+#### ﻿{{% resource_link "0691b555-5c7b-b51b-8175-0f9e790a5bdf" "Long Project 8: Zoo Escape" %}}
 
 A student team presents their final game, Zoo Escape. Using Kinect, the player can choose to be one of four animals, and use its special abilities to escape the enclosure, find a key, and exit the zoo.
 

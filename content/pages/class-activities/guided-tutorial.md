@@ -18,7 +18,7 @@ Students form groups of 4–6 where one member volunteers their computer to be s
 
 ## Purpose
 
-{{< resource 6f0d1405-d3b9-4e75-7c79-3afc12686847 >}}
+{{< resource uuid="6f0d1405-d3b9-4e75-7c79-3afc12686847" >}}
 
 Students in the Unity guided tutorial session. (Image by Courtesy by H. Sharon Lin, MIT OpenCourseWare.)
 
@@ -30,29 +30,29 @@ After introducing the basic logistics of the activity, it is important to set ex
 
 ## Tutorial
 
-The [tutorial](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial) itself will walk the students through the process of creating the following game.
+The [tutorial](https://web.archive.org/web/20161026083202/https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial) itself will walk the students through the process of creating the following game.
 
 ## Class Videos
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 94d20b64-cfe5-34fa-a58f-8bd301456f49 >}}
+{{< resource uuid="94d20b64-cfe5-34fa-a58f-8bd301456f49" >}}
 
  
 
 {{< tdclose >}}{{< tdopen >}}
 
-#### {{% resource_link 7fd445e1-cb56-0b0c-93fa-8d6a5473a08d "Guided Tutorial: Introduction to Unity" %}}
+#### {{% resource_link "7fd445e1-cb56-0b0c-93fa-8d6a5473a08d" "Guided Tutorial: Introduction to Unity" %}}
 
 Mark Vrablic provides an overview of the Unity game engine and how to work with the software  interface. This is provided to help students get started on an even footing when jumping into the guided tutorial.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 8115fb78-f963-e70f-51e3-541bca643c5c >}}
+{{< resource uuid="8115fb78-f963-e70f-51e3-541bca643c5c" >}}
 
  
 
 {{< tdclose >}}{{< tdopen >}}
 
-#### {{% resource_link d5fec833-baad-e25e-f988-fca085b259d3 "Guided Tutorial: Purpose and Overview" %}}
+#### {{% resource_link "d5fec833-baad-e25e-f988-fca085b259d3" "Guided Tutorial: Purpose and Overview" %}}
 
 Kyle Keane sets expectations for the group dynamics of the guided tutorial, letting students know they should ask each other lots of questions and work as a team to find answers.
 

@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/3318cacdd65c507dc92f56548672c8d4_UnityShortProject.jpg
+file_size: 44163
 file_type: image/jpeg
 image_metadata:
   caption: A group working on Goshzilla, a godzilla themed game, succeeds at making
