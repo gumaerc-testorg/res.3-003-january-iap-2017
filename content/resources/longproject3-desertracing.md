@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/08eece0c01e96692952dcc97455d37cd_LongProject3-DesertRacing.jpg
+file_size: 2451
 file_type: image/jpeg
 image_metadata:
   caption: ''

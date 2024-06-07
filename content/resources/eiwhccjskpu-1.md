@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/6c07c476b39e36434f5e75aae22532ef_EIWhCCjSkPU.pdf
+file_size: 27315
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

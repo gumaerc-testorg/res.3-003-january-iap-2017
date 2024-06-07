@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/963fe33a0705ccceed621cb5345f8344_UnityLongProject.jpg
+file_size: 32653
 file_type: image/jpeg
 image_metadata:
   caption: A group thinking of game ideas. This is the early planning stage of "Jedi

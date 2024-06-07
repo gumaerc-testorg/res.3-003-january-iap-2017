@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/63be88f75159711b56fead4c939e7d12_LongProject6-BlackoutTetris.jpg
+file_size: 2123
 file_type: image/jpeg
 image_metadata:
   caption: ''
