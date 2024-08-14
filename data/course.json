@@ -44,9 +44,10 @@
     "website": "res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017"
   },
   "course_title": "Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect",
+  "hide_download": false,
   "course_description": "This is a 9-day hands-on workshop about designing, building, and publishing simple educational videogames. No previous experience with computer programming or videogame design is required; beginning students will be taught everything they need to know and advanced students will be challenged to learn new skills. Participants will learn about videogame creation using the Unity game engine, collaborative software development using GitHub, gesture handling using the Microsoft Kinect, 3D digital object creation, videogame design, and small team management.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
   "department_numbers": [
-    "RES"
+    "3"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.3-003",
