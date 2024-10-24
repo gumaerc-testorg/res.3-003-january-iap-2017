@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/a3277f10f9aa995c1e25ee41ce483aa2_GettingStarted-Icebreaker.jpg
+file: /ol-ocw-studio-app/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/a3277f10f9aa995c1e25ee41ce483aa2_GettingStarted-Icebreaker.jpg
 file_size: 2692
 file_type: image/jpeg
 image_metadata:

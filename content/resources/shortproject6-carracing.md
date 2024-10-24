@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/45cd6c3561cb07676220efd006ac7716_ShortProject6-CarRacing.jpg
+file: /ol-ocw-studio-app/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/45cd6c3561cb07676220efd006ac7716_ShortProject6-CarRacing.jpg
 file_size: 2286
 file_type: image/jpeg
 image_metadata:
