@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/4d4b5ddc32e02e53c4f12e56285a1a57_ShortProject8-TotoGro.jpg
+file: /ol-ocw-studio-app/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/4d4b5ddc32e02e53c4f12e56285a1a57_ShortProject8-TotoGro.jpg
 file_size: 2185
 file_type: image/jpeg
 image_metadata:
