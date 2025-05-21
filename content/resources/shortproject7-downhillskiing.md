@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/e96f41a45f670b44729d0c4aaabaa86e_ShortProject7-DownhillSkiing.jpg
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/e96f41a45f670b44729d0c4aaabaa86e_ShortProject7-DownhillSkiing.jpg
 file_size: 2889
 file_type: image/jpeg
 image_metadata:

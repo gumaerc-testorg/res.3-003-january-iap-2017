@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/c283e2f2f2f535e51f66235a21e42ced_LongProject1-CatsCradle.jpg
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/c283e2f2f2f535e51f66235a21e42ced_LongProject1-CatsCradle.jpg
 file_size: 2296
 file_type: image/jpeg
 image_metadata:
