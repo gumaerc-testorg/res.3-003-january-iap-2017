@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/d10af93e1a62fffdf4e738d928202623_LongProject2-CubeConstructor.jpg
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/d10af93e1a62fffdf4e738d928202623_LongProject2-CubeConstructor.jpg
 file_size: 2174
 file_type: image/jpeg
 image_metadata:

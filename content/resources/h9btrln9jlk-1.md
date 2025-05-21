@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/b04b235ceb1f8c70159d64e255c728df_h9btrlN9JLk.pdf
+file: /courses/res-3-003-learn-to-build-your-own-videogame-with-the-unity-game-engine-and-microsoft-kinect-january-iap-2017/b04b235ceb1f8c70159d64e255c728df_h9btrlN9JLk.pdf
 file_size: 19560
 file_type: application/pdf
 learning_resource_types: []
