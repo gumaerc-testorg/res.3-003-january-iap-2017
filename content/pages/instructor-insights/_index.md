@@ -39,7 +39,7 @@ _Below, Kyle Keane and Andrew Ringler describe various aspects of how they teach
 
 _Learn more! At the following Residential Digital Innovations page, you can learn more about how Dr. Keane and his team used the Microsoft Kinect as an educational tool._
 
-- [Using Interactivity & Connectedness to Teach MS Kinect](https://openlearning.mit.edu/campus/digital-innovations/using-interactivity-connectedness-teach-ms-kinect)
+- {{% resource_link "5bf89c17-244e-419d-ba3f-e93d4385f68c" "Using Interactivity & Connectedness to Teach MS Kinect" %}}
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
