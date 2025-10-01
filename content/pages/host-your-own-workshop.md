@@ -18,9 +18,9 @@ The following materials were used to plan this IAP course in January 2017.
 Github
 ------
 
-We were sponsored by [GitHub Education](https://education.github.com/) with free private repos.
+We were sponsored by {{% resource_link "fee3a8dd-aaed-4e61-b3f0-1c19fe2072b6" "GitHub Education" %}} with free private repos.
 
-For the course we created a [single repo](https://mens-et-manus.github.io/archive/2017-IAP-Arduino-Unity/) and gave every student access to it. We populated it with simple html templates and folders for each student and group.
+For the course we created a {{% resource_link "c8014ef6-e20d-4666-ad2d-163b03307eee" "single repo" %}} and gave every student access to it. We populated it with simple html templates and folders for each student and group.
 
 Hardware
 --------
@@ -50,9 +50,9 @@ We setup a mailing list for the course and signed up students for the list. This
 
 "This is the email list for our IAP video game design class. We are looking forward to meeting everyone on Monday in room 13-3101 at 1 PM.
 
-Before arriving on Monday please download and install the Unity game engine on the laptop computer you will be using for the class. You can get the free [personal version](https://store.unity.com/).
+Before arriving on Monday please download and install the Unity game engine on the laptop computer you will be using for the class. You can get the free {{% resource_link "8258a715-32c9-49f4-8423-e3990d6f52a8" "personal version" %}}.
 
-We will do a brief intro to Github as one option for collaborating with others on your projects, so please also [download the GitHub client](http://desktop.github.com/) from and setup a github account if you do not already have one.
+We will do a brief intro to Github as one option for collaborating with others on your projects, so please also {{% resource_link "d1d94099-c932-49d6-81a3-6c402b0eea6b" "download the GitHub client" %}} from and setup a github account if you do not already have one.
 
 We will walk you through an introductory Unity tutorial about building a 3D game over the first few days, then you will break out into teams for a small two day project meant to help you learn through collaboration. We'll present the course outline in more detail during the first day."
 
@@ -62,15 +62,15 @@ We will walk you through an introductory Unity tutorial about building a 3D game
 
 ### .gitignore
 
-"I think it is good to share with you, in particular for git beginners. According to the [Unity website](https://answers.unity3d.com/questions/22604/which-unity-project-files-can-be-ignored-for-versi.html), you should modify your .gitignore to exclude temporary, meaningless files to stage/add into your repository for sharing your codes across team members. Tracking temporary/binary files can cause nightmare for your friends."
+"I think it is good to share with you, in particular for git beginners. According to the {{% resource_link "72b67812-cc40-4f47-938c-9dfcde1345d8" "Unity website" %}}, you should modify your .gitignore to exclude temporary, meaningless files to stage/add into your repository for sharing your codes across team members. Tracking temporary/binary files can cause nightmare for your friends."
 
 ### .gitignore
 
 "We had a nightmare to fix merging conflicts since unity has many binary files.  
-We should [use smart merge](http://docs.unity3d.com/Manual/SmartMerge.html) rather than standard git merge. Using smart merge is also tricky; we should [run 'git mergetool.'](http://stackoverflow.com/questions/35140856/setup-unity-smart-merge)  
+We should {{% resource_link "a5d8b4cb-4d4c-4986-a423-e429a113eda4" "use smart merge" %}} rather than standard git merge. Using smart merge is also tricky; we should {{% resource_link "34ef6977-1377-45ee-b109-7bad9e6eac2c" "run 'git mergetool.'" %}}  
 As well as .gitignore and .gitattributes, you also need to set up .git/config or .gitconfig to run mergetool.  
-More detail discussion to work better is provided under the topic '[Using Git with Unity](https://gist.github.com/Ikalou/197c414d62f45a1193fd).'  
-It suggests to [change your Unity editor setting](https://docs.unity3d.com/Manual/class-EditorManager.html) to force text files for .asset; Edit > Project Settings > Editor Settings > Asset Serialization > Force Text."
+More detail discussion to work better is provided under the topic '{{% resource_link "a6305e1e-2e96-4c6c-9e8d-2349cdd2913f" "Using Git with Unity" %}}.'  
+It suggests to {{% resource_link "0196dcaa-6562-4a8b-b376-78d9a5830451" "change your Unity editor setting" %}} to force text files for .asset; Edit > Project Settings > Editor Settings > Asset Serialization > Force Text."
 
 ### Project request
 
